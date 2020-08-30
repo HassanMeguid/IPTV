@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   Lolo TV   ##########" tvg-logo="" group-title="Lolo TV",##########  Lolo TV   ##########
 #EXTINF:-1,24/7: TWO AND A HALF MEN | HD
 http://jokermagic.pro:8080/live/cv59NhPpX3/iMKYyvCW7K/81203.m3u8
 #EXTINF:-1,24/7: SEINFELD | HD
@@ -7,3 +8,5 @@ http://jokermagic.pro:8080/live/cv59NhPpX3/iMKYyvCW7K/81163.m3u8
 http://jokermagic.pro:8080/live/cv59NhPpX3/iMKYyvCW7K/81250.m3u8
 #EXTINF:-1,24/7:: Disney | SD
 http://jokermagic.pro:8080/live/cv59NhPpX3/iMKYyvCW7K/81239.m3u8
+#EXTINF:-1,24/7: ACCORDING TO JIM | HD
+http://jokermagic.pro:8080/live/cv59NhPpX3/iMKYyvCW7K/81628.m3u8
