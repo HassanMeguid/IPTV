@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR: LOCAL Host" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: LOCAL Host
+http://192.168.1.102:980/api/streaming/test
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN ACTION HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: OSN ACTION HD
 http://iptvstream.xyz:8080/test-bf54c7/0bd5/71110
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN Action Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: OSN Action Movies
